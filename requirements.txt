@@ -26,8 +26,8 @@ protobuf==4.25.8
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.23
-pydantic==2.5.3
-pydantic-settings==2.1.0
+pydantic==2.5.0
+pydantic-settings==2.0.3
 pydantic_core==2.14.6
 PyGithub==2.1.1
 Pygments==2.19.2
