@@ -10,7 +10,7 @@ from github import Github
 
 load_dotenv()
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://tds-project1-8w6g.onrender.com"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 STUDENT_SECRET = os.getenv("STUDENT_SECRET")
