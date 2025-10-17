@@ -4,7 +4,7 @@ Test with exact instructor request format
 import requests
 import json
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://tds-project1-8w6g.onrender.com/api-endpoint"
 STUDENT_SECRET = "my0509"  # Update to match your .env
 
 def test_exact_format():
